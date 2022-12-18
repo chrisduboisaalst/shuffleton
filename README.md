@@ -7,7 +7,7 @@ Arduino uno is connected to :
 - 4 Led segment Displays
 - 1 pushbutton
 
-#Simulation
+# Simulation
 This project is also available in simulation mode here : https://wokwi.com/projects/350656210813321810
 The pushbuttons represent the IR sensors
 
